@@ -1,0 +1,14 @@
+h4 {
+    color:#ED7726;
+    font-size:36px;
+}
+p {
+    color:#ED7726;
+    font-size:10px;
+}
+
+.search-query form-control oe_search_box ui-autocomplete-input {
+    color:#ED7726;
+    font-size:10px;
+
+}
